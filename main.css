@@ -1,0 +1,83 @@
+body{
+    background-color: #e0e2e1;
+}
+body,html{
+    overflow-y: hidden;
+    overflow-x: hidden  ;
+}
+
+
+
+.logo{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+
+.content{
+    margin-top: 160px;
+    
+    height: 60vh;
+   
+    
+    
+}
+.text{
+    font-size: 70px;
+    margin-left: 160px;
+    font-weight: 200;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+     font-style: normal;
+    
+    
+   
+}
+.textdown{
+    font-weight: bold;
+    margin-left: 160px;
+  
+
+}
+form{
+    
+    margin-left: 11%;
+    width: 20%;
+    margin-top: 40px;
+}
+
+.btn1{
+    background-color: rgb(255, 255, 255);
+    padding: 15px 15px;
+    border: none;
+    padding-right: 35px;
+    padding-left: 35px;
+    border-radius: 30px;
+    font-weight: bold;
+
+}
+.btn2{
+
+   background-color: rgba(255, 255, 255, 0.5);
+color: #000000; 
+
+    padding: 15px 15px;
+    border: none;
+    padding-right: 35px;
+    padding-left: 35px;
+    border-radius: 30px;
+    margin-left: 30px;
+
+
+}
+
+.image{
+    margin-left: 60%;
+    margin-top: -300px;
+    width: 50%;
+    /* background-color: aqua; */
+    height: auto;
+   
+}
